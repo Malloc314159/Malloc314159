@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Malloc314159/Malloc314159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+- Languages
 
-Here are some ideas to get you started:
+<a target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frameworks & Engines
+
+<a target="_blank"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=plastic&logo=Unity&logoColor=black"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a>
+<a target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=white"/></a>
+
+### BOJ Profile
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malloc3141592)](https://solved.ac/malloc3141592/)
+
+### Contact
+[Email](malloc_3141592@naver.com)
