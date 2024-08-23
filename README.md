@@ -15,5 +15,5 @@
 ### BOJ Profile
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=malloc3141592)](https://solved.ac/malloc3141592/)
 
-### Contact
-[Email](malloc_3141592@naver.com)
+### Github Stats
+[![Jeeyun Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=malloc3141)](https://github.com/malloc3141/github-readme-stats)
